@@ -1,0 +1,21 @@
+Projekt warcaby.
+Technologia WPF
+autorzy: Filip Barnigiel, Maria Stachowiak
+
+Projekt bedzie zawieral plansze na której beda rozmieszczone pionki.
+Gre rozpocznie sie po wprowadzeniu imion graczy. 
+Program bedzie mial za zadanie pilnowac, czy przestrzegane sa oficjalne reguly gry w warcaby,
+a w szczególnosci przestrzeganie oficjalnych zasad dotyczacych remisu (np. 25 ruchów tylko dama, bez bicia a takze tzw. remis z przewaga)
+Gdy pionek dojdzie do konca planszy bedzie nastepowala zmiana pionka na dame, czyli pionka o nowych mozliwosciach
+Dodatkowa funkcjonalnoscia bedzie lista wyników zapisywana w notatniku, która w kazdej chwili bedzie mozna zobaczyc w postaci tabeli na ekranie monitora.
+Z Tablicy wyników bedzie mozna usuwac osoby, dodawanie nowych osób nastepuje przy wprowadzaniu Imienia (nicku) przy starcie gry.
+Beda stworzone dwie klasy: biale i czarne, po których beda dziedziczyc klasy: pionek i damka
+
+Podzial zadan:
+utworzenie klas- Maria Stachowiak
+utworzenie Menu glównego - Maria Stachowiak
+Plansza za pomoca WPF - Filip Barnigiel
+Ruch pionków oraz bicie - Maria Stachowiak
+Funkcje sprawdzajace czy zasady gry sa spelnione - Filip Barnigiel
+Top lista graczy - Filip Barnigiel
+Zapis i wczytywanie istniejacej rozgrywki - Maria Stachowiak
